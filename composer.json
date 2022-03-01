@@ -1,0 +1,17 @@
+{
+    "name": "zita/aaargh",
+    "autoload": {
+        "psr-4": {
+            "Zita\\Aaargh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zita",
+            "email": "ambrus.zita99@gmail.com"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "^5.9"
+    }
+}
